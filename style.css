@@ -1,0 +1,14 @@
+body{
+  font-size: 12px;
+  color:brown;
+}
+nav{
+  color:black;
+}
+h1{
+  color:blue;
+}
+  form{
+    border: 2px;
+    border-color: aquamarine;
+  }
